@@ -18,7 +18,7 @@ Write code. Run `script/cibuild` to test it. Check the `script` directory for ot
 
 ## Updating Firefox
 
-Go [here](http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/) and copy the linx of the dmg you want.
+Go [here](http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/) and copy the link of the dmg you want.
 
 Update the following files with the link
 - manifests/init.pp
